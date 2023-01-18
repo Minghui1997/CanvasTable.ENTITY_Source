@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectName", "CanvasTable_Project.vcproj", "{EA8CCAD5-9E3E-4CC3-AB96-8C31AC5E9B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8CCAD5-9E3E-4CC3-AB96-8C31AC5E9B19}.Release|x64.ActiveCfg = Release|x64
+		{EA8CCAD5-9E3E-4CC3-AB96-8C31AC5E9B19}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
